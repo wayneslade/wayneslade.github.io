@@ -71,8 +71,7 @@ We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/HBOI-color-stacked.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SharkPlate.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_logo.svg" style="width: 200px">
 </figure>

@@ -1,7 +1,7 @@
 ---
 title: "Slade Lab @ FAU HBOI - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Slade Lab at Florida Atlantic University Harbor Branch"
 sitemap: false
 permalink: /
 ---

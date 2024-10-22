@@ -71,8 +71,6 @@ We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/HBOI-color-stacked.png" style="width: 200px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/1x1.png" style="width: 10px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SharkPlate.png" style="width: 200px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/1x1.png" style="width: 10px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_logo.svg" style="width: 125px">

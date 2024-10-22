@@ -6,10 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Allan Lab
-email: your-email@domain.com
+title: The Slade Lab @ FAU HBOI
+email: wayneslade@fau.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the AllanLab.
+  This is the website of our ocean optics and particle dynamics research group 
+  at Florida Atlantic University Harbor Branch Oceanographic Insitute.
 baseurl: ""
 url: ""
 

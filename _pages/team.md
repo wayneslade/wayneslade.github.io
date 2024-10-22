@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Slade Lab @ FAU HBOI - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Slade Lab at Florida Atlantic University Harbor Branch: Team members"
 sitemap: false
 permalink: /team/
 ---

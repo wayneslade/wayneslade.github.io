@@ -1,4 +1,4 @@
-# SladeLab at FAU HBOI Website
+# Slade Lab at FAU HBOI Website
 
 This is the website of our ocean optics and particle dynamics research group at Florida Atlantic University Harbor Branch Oceanographic Insitute.
 

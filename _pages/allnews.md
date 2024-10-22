@@ -1,7 +1,7 @@
 ---
-title: "News"
+title: "Slade Lab @ FAU HBOI - News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Slade Lab at Florida Atlantic University Harbor Branch"
 sitemap: false
 permalink: /allnews.html
 ---

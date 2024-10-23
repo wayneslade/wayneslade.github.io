@@ -13,17 +13,14 @@ permalink: /team/
 
 <!-- see https://github.com/USC-NSL/USC-NSL.github.io --!>
 
-Globe <i class="fas fa-globe fa"></i> <br>
+<!-- Globe <i class="fas fa-globe fa"></i> <br>
 Envelope <i class="fas fa-envelope-open"></i> <br>
 GoogleScholar <i class="ai ai-google-scholar-square ai-1x"></i> <br>
 GitHub <i class="fab fa-github"></i> <br>
 LinkedIn <i class="fab fa-linkedin"></i> <br>
 Twitter <i class="fab fa-twitter"></i> <br>
 ORCiD <i class="fab fa-orcid"></i> <br>
-ResearchGate <i class="fab fa-researchgate"></i> <br>
-<br> 
-<br>
-
+ResearchGate <i class="fab fa-researchgate"></i> <br> -->
 
 Globe <i class="fas fa-lg fa-globe"></i> 
 Envelope <i class="fas fa-lg fa-envelope-open"></i> 
@@ -35,26 +32,12 @@ ResearchGate <i class="fab fa-lg fa-researchgate"></i>
 <br> 
 <br>
 
-<div class="social-links"> 
-Link <a href="https://sladelab.info/"><i class="fas fa-lg fa-link"></i></a> 
-Globe <a href="https://sladelab.info/"><i class="fas fa-lg fa-globe"></i></a> 
-Envelope <a href="https://sladelab.info/"><i class="fas fa-lg fa-envelope-open"></i> </a> 
-GoogleScholar(AI-square) <a href="https://sladelab.info/"><i class="ai ai-lg ai-google-scholar-square"></i> </a> 
-GoogleScholar(AI) <a href="https://sladelab.info/"><i class="ai ai-lg ai-google-scholar"></i> </a> 
-GitHub <a href="https://sladelab.info/"><i class="fab fa-lg fa-github"></i> </a> 
-LinkedIn <a href="https://sladelab.info/"><i class="fab fa-lg fa-linkedin"></i></a> 
-Twitter <a href="https://sladelab.info/"><i class="fab fa-lg fa-twitter"></i> </a> 
-ORCiD <a href="https://sladelab.info/"><i class="fab fa-lg fa-orcid"></i> </a> 
-ResearchGate(FA) <a href="https://sladelab.info/"><i class="fab fa-lg fa-researchgate"></i> </a> 
-ResearchGate(AI) <a href="https://sladelab.info/"><i class="ai ai-lg ai-researchgate"></i> </a> 
-</div>
-
 
 <!----------------------------------------------------------------------------------------------------------------------------------------->
 ## Faculty and Staff
 
 {% assign number_printed = 0 %}
-<!-- {% assign fac_array = site.data.team.facultystaff | sort: "lastname" %} -->
+<!-- {% assign fac_array = site.data.team.facultystaff %} -->
 {% assign fac_array = site.data.team.facultystaff %}
 {% for member in fac_array %}
 

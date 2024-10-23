@@ -38,8 +38,8 @@ ResearchGate <i class="fab fa-lg fa-researchgate"></i>
 
 {% assign number_printed = 0 %}
 <!-- {% assign fac_array = site.data.team.facultystaff %} -->
-{% assign fac_array = site.data.team.facultystaff %}
-{% for member in fac_array %}
+
+{% for member in site.data.team.facultystaff %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 

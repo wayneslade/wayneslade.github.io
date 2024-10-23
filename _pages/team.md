@@ -51,7 +51,7 @@ permalink: /team/
 ## Current Students
 
 {% assign number_printed = 0 %}
-{% assign stud_array = site.data.team.current-students | sort: "lastname" %}
+{% assign stud_array = site.data.team.currentstudents %}
 <!-- Inspect a variable in liquid -->
 <!-- {{ stud_array[0] | inspect }} -->
 

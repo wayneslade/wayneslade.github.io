@@ -1,7 +1,7 @@
 ---
 title: "Slade Lab @ FAU HBOI - Team"
 layout: gridlay
-excerpt: "Slade Lab at Florida Atlantic University Harbor Branch: Team members"
+excerpt: "Slade Lab at Florida Atlantic University Harbor Branch: People"
 sitemap: false
 permalink: /team/
 ---

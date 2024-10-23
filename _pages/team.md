@@ -36,6 +36,7 @@ ResearchGate <i class="fab fa-lg fa-researchgate"></i>
 <br>
 
 <div class="social-links"> 
+Link <a href="https://sladelab.info/"><i class="fas fa-lg fa-link"></i></a> 
 Globe <a href="https://sladelab.info/"><i class="fas fa-lg fa-globe"></i></a> 
 Envelope <a href="https://sladelab.info/"><i class="fas fa-lg fa-envelope-open"></i> </a> 
 GitHub <a href="https://sladelab.info/"><i class="fab fa-lg fa-github"></i> </a> 

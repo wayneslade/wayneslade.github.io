@@ -37,49 +37,35 @@ ResearchGate <i class="fab fa-lg fa-researchgate"></i>
 ## Faculty and Staff
 
 {% assign number_printed = 0 %}
-<!-- {% assign fac_array = site.data.team.facultystaff %} -->
-
 {% for member in site.data.team.facultystaff %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
+    {% assign even_odd = number_printed | modulo: 2 %}
+    {% if even_odd == 0 %}
+        <div class="row">
+    {% endif %}
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
+    <div class="col-sm-6 clearfix">
+        <!-- Member photo floats on left -->
+        <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+        <h4>{{ member.name }}</h4>
+        {%- include socialmedia.html -%}
+        <i>{{ member.info }}</i>
+        <!-- Maybe add education/notes here... -->
+    </div>
 
-<div class="col-sm-6 clearfix">
+    {% assign number_printed = number_printed | plus: 1 %}
 
-  {% if member.social.website %}
-
-  {% if member.photo %}
-  <a target="blank" href="{{ member.social.website }}"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /></a>
-  {% endif %}
-  <h4><a target="blank" href="{{ member.social.website }}">{{ member.name }}</a></h4>
-  {% else %}
-
-  {% if member.photo %}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  {% endif %}
-  <h4>{{ member.name }}</h4>
-
-  {% endif %}
-
-  {%- include socialmedia.html -%}
-  <i>{{ member.info }}</i> <!--<br>email: <{{ member.email }}></i> -->
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+    {% if even_odd == 1 %}
+        </div>
+    {% endif %}
 
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
-</div>
+    </div>
 {% endif %}
+
 
 <!----------------------------------------------------------------------------------------------------------------------------------------->
 ## Current Students

@@ -3,51 +3,30 @@ facultystaff:
     lastname: Slade
     photo: Ramesh/ramesh.jpg
     info: Associate Research Professor
-    education:
-      - M.S. and Ph.D. from the University of California, Berkeley
-      - B.Tech degree from the Indian Institute of Technology (IIT), Madras
     social:
       website: https://govindan.usc.edu/
       email: ramesh@usc.edu
-      google-scholar: https://scholar.google.com/citations?user=ZTkRs84AAAAJ
+      googlescholar: https://scholar.google.com/citations?user=ZTkRs84AAAAJ
       linkedin: https://www.linkedin.com/in/ramesh-govindan/
 
   - name: Barath Raghavan
     lastname: Raghavan
     photo: Barath/barath.jpg
     info: Associate Professor
-    education:
-      - Ph.D. from the University of California, San Diego
-      - B.S. from the University of California, Berkeley
     social:
       website: https://raghavan.usc.edu/
       email: barath.raghavan@usc.edu
-      google-scholar: https://scholar.google.com/citations?user=Ikz6_Y0AAAAJ
+      googlescholar: https://scholar.google.com/citations?user=Ikz6_Y0AAAAJ
       linkedin: https://www.linkedin.com/in/barath-raghavan-06212455/
 
   - name: Seo Jin Park
     lastname: Park
     photo: Seojin/seojin.jpg
     info: Assistant Professor
-    education:
-      - Ph.D. from Stanford University
-      - B.S. and M.Eng. from MIT
     social:
       website: https://seojinpark.net/
-      google-scholar: https://scholar.google.com/citations?user=8hwtweIAAAAJ
+      googlescholar: https://scholar.google.com/citations?user=8hwtweIAAAAJ
       linkedin: https://www.linkedin.com/in/seo-jin-park-0bb4681a/
-
-  - name: Harsha V. Madhyastha
-    lastname: Madhyastha
-    photo: Harsha/harsha.jpg
-    info: Associate Professor
-    education:
-      - M.S. and Ph.D. from the University of Washington
-      - B.Tech from the Indian Institute of Technology (IIT), Madras
-    social:
-      website: https://harsha.usc.edu/
-      google-scholar: https://scholar.google.com/citations?user=kxDm9EsAAAAJ
-      linkedin: https://www.linkedin.com/in/harshavmadhyastha/
 
 current-students:
   - name: Huanchen Sun

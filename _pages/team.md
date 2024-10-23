@@ -39,11 +39,14 @@ ResearchGate <i class="fab fa-lg fa-researchgate"></i>
 Link <a href="https://sladelab.info/"><i class="fas fa-lg fa-link"></i></a> 
 Globe <a href="https://sladelab.info/"><i class="fas fa-lg fa-globe"></i></a> 
 Envelope <a href="https://sladelab.info/"><i class="fas fa-lg fa-envelope-open"></i> </a> 
+GoogleScholar(AI-square) <a href="https://sladelab.info/"><i class="ai ai-lg ai-google-scholar-square"></i> </a> 
+GoogleScholar(AI) <a href="https://sladelab.info/"><i class="ai ai-lg ai-google-scholar"></i> </a> 
 GitHub <a href="https://sladelab.info/"><i class="fab fa-lg fa-github"></i> </a> 
 LinkedIn <a href="https://sladelab.info/"><i class="fab fa-lg fa-linkedin"></i></a> 
 Twitter <a href="https://sladelab.info/"><i class="fab fa-lg fa-twitter"></i> </a> 
 ORCiD <a href="https://sladelab.info/"><i class="fab fa-lg fa-orcid"></i> </a> 
-ResearchGate <a href="https://sladelab.info/"><i class="fab fa-lg fa-researchgate"></i> </a> 
+ResearchGate(FA) <a href="https://sladelab.info/"><i class="fab fa-lg fa-researchgate"></i> </a> 
+ResearchGate(AI) <a href="https://sladelab.info/"><i class="ai ai-lg ai-researchgate"></i> </a> 
 </div>
 
 

@@ -54,7 +54,8 @@ ResearchGate(AI) <a href="https://sladelab.info/"><i class="ai ai-lg ai-research
 ## Faculty and Staff
 
 {% assign number_printed = 0 %}
-{% assign fac_array = site.data.team.facultystaff | sort: "lastname" %}
+<!-- {% assign fac_array = site.data.team.facultystaff | sort: "lastname" %} -->
+{% assign fac_array = site.data.team.facultystaff %}
 {% for member in fac_array %}
 
 {% assign even_odd = number_printed | modulo: 2 %}

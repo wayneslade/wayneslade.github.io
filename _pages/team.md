@@ -13,7 +13,7 @@ permalink: /team/
 
 <!-- see https://github.com/USC-NSL/USC-NSL.github.io --!>
 
-Globe <i class="fas fa-globe"></i> <br>
+Globe <i class="fas fa-globe fa"></i> <br>
 Envelope <i class="fas fa-envelope-open"></i> <br>
 GoogleScholar <i class="ai ai-google-scholar-square ai-1x"></i> <br>
 GitHub <i class="fab fa-github"></i> <br>
@@ -23,13 +23,15 @@ ORCiD <i class="fab fa-orcid"></i> <br>
 ResearchGate <i class="fab fa-researchgate"></i> <br>
 <br> 
 <br>
-Link <i class="fa fa-link"></i> <br>
-Scholar <i class="fa fa-scholar"></i> <br>
-LinkedIn <i class="fa fa-linkedin"></i> <br>
-GitHub <i class="fa fa-github"></i> <br>
-Twitter <i class="fa fa-twitter"></i> <br>
 
-
+Globe <i class="fas fa-globe fa-xl"></i> 
+Envelope <i class="fas fa-envelope-open fa-xl"></i> 
+GoogleScholar <i class="ai ai-google-scholar-square ai-1x"></i> 
+GitHub <i class="fab fa-github fa-xl"></i> 
+LinkedIn <i class="fab fa-linkedin fa-xl"></i>
+Twitter <i class="fab fa-twitter fa-xl"></i> 
+ORCiD <i class="fab fa-orcid fa-xl"></i> 
+ResearchGate <i class="fab fa-researchgate fa-xl"></i> 
 
 <!----------------------------------------------------------------------------------------------------------------------------------------->
 ## Faculty and Staff

@@ -1,0 +1,121 @@
+facultystaff:
+  - name: Wayne Slade
+    lastname: Slade
+    photo: Ramesh/ramesh.jpg
+    info: Associate Research Professor
+    education:
+      - M.S. and Ph.D. from the University of California, Berkeley
+      - B.Tech degree from the Indian Institute of Technology (IIT), Madras
+    social:
+      website: https://govindan.usc.edu/
+      email: ramesh@usc.edu
+      google-scholar: https://scholar.google.com/citations?user=ZTkRs84AAAAJ
+      linkedin: https://www.linkedin.com/in/ramesh-govindan/
+
+  - name: Barath Raghavan
+    lastname: Raghavan
+    photo: Barath/barath.jpg
+    info: Associate Professor
+    education:
+      - Ph.D. from the University of California, San Diego
+      - B.S. from the University of California, Berkeley
+    social:
+      website: https://raghavan.usc.edu/
+      email: barath.raghavan@usc.edu
+      google-scholar: https://scholar.google.com/citations?user=Ikz6_Y0AAAAJ
+      linkedin: https://www.linkedin.com/in/barath-raghavan-06212455/
+
+  - name: Seo Jin Park
+    lastname: Park
+    photo: Seojin/seojin.jpg
+    info: Assistant Professor
+    education:
+      - Ph.D. from Stanford University
+      - B.S. and M.Eng. from MIT
+    social:
+      website: https://seojinpark.net/
+      google-scholar: https://scholar.google.com/citations?user=8hwtweIAAAAJ
+      linkedin: https://www.linkedin.com/in/seo-jin-park-0bb4681a/
+
+  - name: Harsha V. Madhyastha
+    lastname: Madhyastha
+    photo: Harsha/harsha.jpg
+    info: Associate Professor
+    education:
+      - M.S. and Ph.D. from the University of Washington
+      - B.Tech from the Indian Institute of Technology (IIT), Madras
+    social:
+      website: https://harsha.usc.edu/
+      google-scholar: https://scholar.google.com/citations?user=kxDm9EsAAAAJ
+      linkedin: https://www.linkedin.com/in/harshavmadhyastha/
+
+current-students:
+  - name: Huanchen Sun
+    lastname: Sun
+    photo: Default/bio-photo.jpg
+    info: PhD Student
+    start: Mar 2024
+    advisor:
+      - Harsha V. Madhyastha
+    social:
+      linkedin: https://www.linkedin.com/in/huanchen-sun-3378a3229/
+  
+  - name: Shaoyu Wang
+    lastname: Wang
+    photo: Default/bio-photo.jpg
+    info: PhD Student
+    start: Aug 2024
+    advisor:
+      - Seo Jin Park
+    social:
+
+  - name: Arvin Ghavidel
+    lastname: Ghavidel
+    photo: Default/bio-photo.jpg
+    info: PhD Student
+    start: Jan 2023
+    advisor:
+      - Ramesh Govindan
+    social:
+
+  - name: <a href="https://fxdawnn.github.io/">Xiao Fu<a/>
+    lastname: Fu
+    photo: Xiao/xiao.jpg
+    info: PhD Student
+    start: Feb 2019
+    advisor:
+      - Barath Raghavan
+    education:
+      - B.S. from <a href="http://en.hit.edu.cn/Harbin">Harbin Institute of Technology (HIT)</a>.
+    social:
+      twitter: https://twitter.com/xiaolovestree
+      linkedin: https://www.linkedin.com/in/xiao-fu-462822142/
+      github: https://github.com/fxdawnn
+      website: https://fxdawnn.github.io/
+      email: fuxiao@usc.edu
+
+
+visitor:
+
+  # Past Visitors
+  # - name: <a href="https://usc-nsl.github.io/people/jeongyeup-paek/">Jeongyeup Paek</a>
+  #   lastname: Paek
+  #   photo: Jeongyeup/jpaek-1.jpg
+  #   info: Visiting Scholar @ USC-NSL
+  #   start: Aug 2022
+  #   email: jpaek@usc.edu
+  #   from:
+  #     - Associate Professor @ Chung-Ang University
+  #   education:
+  #     - M.S. and Ph.D. from the University of Southern California, Los Angeles
+  #     - B.S. from Seoul National University, Seoul, Republic of Korea
+  #   social:
+  #     google-scholar: http://scholar.google.com/citations?user=oTAOFAYAAAAJ
+  #     linkedin: http://www.linkedin.com/in/jeongyeuppaek
+  #     website: https://usc-nsl.github.io/people/jeongyeup-paek/
+  #     email: jpaek@usc.edu
+
+
+
+
+  

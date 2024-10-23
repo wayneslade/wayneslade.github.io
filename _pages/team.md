@@ -25,26 +25,26 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-    <div class="col-sm-6 clearfix">
-        <!-- Member photo floats on left -->
-        <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-        <h4>{{ member.name }}</h4>
-        <-- {%- include socialmedia.html -%} -->
-        <i>{{ member.info }}</i>
-        <!-- Maybe add education/notes here... -->
-    </div>
+<div class="col-sm-6 clearfix">
+  <!-- Member photo floats on left -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  {%- include socialmedia.html -%}
+  <i>{{ member.info }}</i>
+  <!-- Maybe add education/notes here... -->
+</div>
 
-    {% assign number_printed = number_printed | plus: 1 %}
+{% assign number_printed = number_printed | plus: 1 %}
 
-    {% if even_odd == 1 %}
-        </div>
-    {% endif %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
-    </div>
+</div>
 {% endif %}
 
 

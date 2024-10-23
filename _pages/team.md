@@ -24,14 +24,26 @@ ResearchGate <i class="fab fa-researchgate"></i> <br>
 <br> 
 <br>
 
-Globe <i class="fas fa-globe fa-xl"></i> 
-Envelope <i class="fas fa-envelope-open fa-xl"></i> 
-GoogleScholar <i class="ai ai-google-scholar-square ai-1x"></i> 
-GitHub <i class="fab fa-github fa-xl"></i> 
-LinkedIn <i class="fab fa-linkedin fa-xl"></i>
-Twitter <i class="fab fa-twitter fa-xl"></i> 
-ORCiD <i class="fab fa-orcid fa-xl"></i> 
-ResearchGate <i class="fab fa-researchgate fa-xl"></i> 
+
+Globe <i class="fas fa-lg fa-globe"></i> 
+Envelope <i class="fas fa-lg ffa-envelope-open"></i> 
+GitHub <i class="fab fa-lg ffa-github"></i> 
+LinkedIn <i class="fab fa-lg ffa-linkedin"></i>
+Twitter <i class="fab fa-lg ffa-twitter"></i> 
+ORCiD <i class="fab fa-lg ffa-orcid"></i> 
+ResearchGate <i class="fab fa-lg ffa-researchgate"></i> 
+<br> 
+<br>
+
+Globe <a href="https://sladelab.info/"><i class="fas fa-lg fa-globe"></i></a> 
+Envelope <a href="https://sladelab.info/"><i class="fas fa-lg ffa-envelope-open"></i> </a> 
+GitHub <a href="https://sladelab.info/"><i class="fab fa-lg ffa-github"></i> </a> 
+LinkedIn <a href="https://sladelab.info/"><i class="fab fa-lg ffa-linkedin"></i></a> 
+Twitter <a href="https://sladelab.info/"><i class="fab fa-lg ffa-twitter"></i> </a> 
+ORCiD <a href="https://sladelab.info/"><i class="fab fa-lg ffa-orcid"></i> </a> 
+ResearchGate <a href="https://sladelab.info/"><i class="fab fa-lg ffa-researchgate"></i> </a> 
+
+
 
 <!----------------------------------------------------------------------------------------------------------------------------------------->
 ## Faculty and Staff

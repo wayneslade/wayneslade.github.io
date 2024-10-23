@@ -21,7 +21,14 @@ LinkedIn <i class="fab fa-linkedin"></i> <br>
 Twitter <i class="fab fa-twitter"></i> <br>
 ORCiD <i class="fab fa-orcid"></i> <br>
 ResearchGate <i class="fab fa-researchgate"></i> <br>
+<br> 
 <br>
+Link <i class="fa fa-link"></i> <br>
+Scholar <i class="fa fa-scholar"></i> <br>
+LinkedIn <i class="fa fa-linkedin"></i> <br>
+GitHub <i class="fa fa-github"></i> <br>
+Twitter <i class="fa fa-twitter"></i> <br>
+
 
 
 <!----------------------------------------------------------------------------------------------------------------------------------------->

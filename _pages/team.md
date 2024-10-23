@@ -13,26 +13,6 @@ permalink: /team/
 
 <!-- see https://github.com/USC-NSL/USC-NSL.github.io --!>
 
-<!-- Globe <i class="fas fa-globe fa"></i> <br>
-Envelope <i class="fas fa-envelope-open"></i> <br>
-GoogleScholar <i class="ai ai-google-scholar-square ai-1x"></i> <br>
-GitHub <i class="fab fa-github"></i> <br>
-LinkedIn <i class="fab fa-linkedin"></i> <br>
-Twitter <i class="fab fa-twitter"></i> <br>
-ORCiD <i class="fab fa-orcid"></i> <br>
-ResearchGate <i class="fab fa-researchgate"></i> <br> -->
-
-Globe <i class="fas fa-lg fa-globe"></i> 
-Envelope <i class="fas fa-lg fa-envelope-open"></i> 
-GitHub <i class="fab fa-lg fa-github"></i> 
-LinkedIn <i class="fab fa-lg fa-linkedin"></i>
-Twitter <i class="fab fa-lg fa-twitter"></i> 
-ORCiD <i class="fab fa-lg fa-orcid"></i> 
-ResearchGate <i class="fab fa-lg fa-researchgate"></i> 
-<br> 
-<br>
-
-
 <!----------------------------------------------------------------------------------------------------------------------------------------->
 ## Faculty and Staff
 
@@ -48,7 +28,7 @@ ResearchGate <i class="fab fa-lg fa-researchgate"></i>
         <!-- Member photo floats on left -->
         <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
         <h4>{{ member.name }}</h4>
-        {%- include socialmedia.html -%}
+        <-- {%- include socialmedia.html -%} -->
         <i>{{ member.info }}</i>
         <!-- Maybe add education/notes here... -->
     </div>

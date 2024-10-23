@@ -29,21 +29,7 @@ permalink: /team/
   <!-- Member photo floats on left -->
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-{% if member.social.website %}
-<a target="blank" href="{{member.social.website}}"><i class="fas fa-globe fa-lg"></i></a>
-{% endif %}
-<!-- Email -->
-{% if member.social.email %}
-<a target="blank" href="mailto:{{member.social.email}}"><i class="fas fa-envelope-open fa-lg"></i></a>
-{% endif %}
-<!-- Google Scholar -->
-{% if member.social.google-scholar %}
-<a target="blank" href="{{member.social.googlescholar}}"><i class="fab fa-google-scholar fa-lg"></i></a>
-{% endif %}
-<!-- Linkedin -->
-{% if member.social.linkedin %}
-<a target="blank" href="{{member.social.linkedin}}"><i class="fab fa-linkedin fa-lg"></i></a>
-{% endif %}
+{% if member.social.website %}<a target="blank" href="{{member.social.website}}"><i class="fas fa-globe fa-lg"></i></a>{% endif %}{% if member.social.google-scholar %}<a target="blank" href="{{member.social.googlescholar}}"><i class="fab fa-google-scholar fa-lg"></i></a>{% endif %}{% if member.social.linkedin %}<a target="blank" href="{{member.social.linkedin}}"><i class="fab fa-linkedin fa-lg"></i></a>{% endif %}
 <!-- Github -->
 {% if member.social.github %}
 <a target="blank" href="{{member.social.github}}"><i class="fab fa-github fa-lg"></i></a>

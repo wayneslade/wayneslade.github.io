@@ -8,23 +8,9 @@ facultystaff:
       researchgate: https://www.researchgate.net/profile/Wayne-Slade
       orcid: https://orcid.org/0000-0003-1851-968X
       
-
-  - name: Barath Raghavan
-    photo: Barath/barath.jpg
-    info: Associate Professor
-    social:
-      website: https://raghavan.usc.edu/
-      email: barath.raghavan@usc.edu
-      googlescholar: https://scholar.google.com/citations?user=Ikz6_Y0AAAAJ
-      linkedin: https://www.linkedin.com/in/barath-raghavan-06212455/
-
-  - name: Seo Jin Park
-    photo: Seojin/seojin.jpg
-    info: Assistant Professor
-    social:
-      website: https://seojinpark.net/
-      googlescholar: https://scholar.google.com/citations?user=8hwtweIAAAAJ
-      linkedin: https://www.linkedin.com/in/seo-jin-park-0bb4681a/
+  - name: This could be you!
+    photo: now_hiring.jpg
+    info: Postdoctoral Researcher<br>See here for more info
 
 currentstudents:
   - name: Huanchen Sun

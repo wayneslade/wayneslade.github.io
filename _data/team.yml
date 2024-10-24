@@ -1,12 +1,13 @@
 facultystaff:
   - name: Wayne Slade
-    photo: Ramesh/ramesh.jpg
+    photo: Slade.JPG
     info: Associate Research Professor
     social:
-      website: https://govindan.usc.edu/
-      email: ramesh@usc.edu
-      googlescholar: https://scholar.google.com/citations?user=ZTkRs84AAAAJ
-      linkedin: https://www.linkedin.com/in/ramesh-govindan/
+      googlescholar: https://scholar.google.com/citations?view_op=list_works&hl=en&user=Im7FaiEAAAAJ
+      linkedin: https://www.linkedin.com/in/wayneslade/
+      researchgate: https://www.researchgate.net/profile/Wayne-Slade
+      orcid: https://orcid.org/0000-0003-1851-968X
+      
 
   - name: Barath Raghavan
     photo: Barath/barath.jpg

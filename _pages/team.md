@@ -137,7 +137,7 @@ We are a new lab on the lookout for talented and driven graduate students to eng
 and challenging research in ocean optics and particle dynamics.
 
 #### Postdoctoral Researchers
-We are currently looking for a postdoctoral researcher to join the Slade Lab in 2025. Details coming soon.
+We are currently looking for a postdoctoral researcher to join the Slade Lab in 2025. \[coming soon\]
 
 #### Graduate Students
 <!-- More details here -->

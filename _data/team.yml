@@ -11,7 +11,7 @@ facultystaff:
       orcid: https://orcid.org/0000-0003-1851-968X
       
   - name: This could be you!
-    photo: user-large.png
+    photo: user.png
     info: Postdoctoral Researcher<br>See here for more info...[coming soon]
 
 currentstudents:

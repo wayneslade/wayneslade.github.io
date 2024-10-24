@@ -82,7 +82,7 @@ permalink: /team/
   
   {% endif %}
   
-  {%- include socialmedia.html -%}
+  {%- include socials.html -%}
   <i>{{ member.info }}</i><!--<br>email: <{{ member.email }}></i> -->
   {% if member.advisor.size == 1 %}
   Advisor: <i>{{ member.advisor }}</i>

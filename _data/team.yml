@@ -2,6 +2,8 @@ facultystaff:
   - name: Wayne Slade
     photo: Slade.JPG
     info: Associate Research Professor
+    education:
+      - PhD Oceanography, University of Maine with <a href=https://misclab.umeoce.maine.edu/">Emmanuel Boss</a>
     social:
       googlescholar: https://scholar.google.com/citations?view_op=list_works&hl=en&user=Im7FaiEAAAAJ
       linkedin: https://www.linkedin.com/in/wayneslade/
@@ -13,46 +15,15 @@ facultystaff:
     info: Postdoctoral Researcher<br>See here for more info
 
 currentstudents:
-  - name: Huanchen Sun
-    photo: Default/bio-photo.jpg
-    info: PhD Student
-    start: Mar 2024
-    advisor:
-      - Harsha V. Madhyastha
-    social:
-      linkedin: https://www.linkedin.com/in/huanchen-sun-3378a3229/
+#  - name: Huanchen Sun
+#    photo: Default/bio-photo.jpg
+#    info: PhD Student
+#    start: Mar 2024
+#    advisor:
+#      - Harsha V. Madhyastha
+#    social:
+#      linkedin: https://www.linkedin.com/in/huanchen-sun-3378a3229/
   
-  - name: Shaoyu Wang
-    photo: Default/bio-photo.jpg
-    info: PhD Student
-    start: Aug 2024
-    advisor:
-      - Seo Jin Park
-    social:
-
-  - name: Arvin Ghavidel
-    photo: Default/bio-photo.jpg
-    info: PhD Student
-    start: Jan 2023
-    advisor:
-      - Ramesh Govindan
-    social:
-
-  - name: <a href="https://fxdawnn.github.io/">Xiao Fu<a/>
-    photo: Xiao/xiao.jpg
-    info: PhD Student
-    start: Feb 2019
-    advisor:
-      - Barath Raghavan
-    education:
-      - B.S. from <a href="http://en.hit.edu.cn/Harbin">Harbin Institute of Technology (HIT)</a>.
-    social:
-      twitter: https://twitter.com/xiaolovestree
-      linkedin: https://www.linkedin.com/in/xiao-fu-462822142/
-      github: https://github.com/fxdawnn
-      website: https://fxdawnn.github.io/
-      email: fuxiao@usc.edu
-
 visitors:
 
   # Past Visitors
@@ -74,13 +45,10 @@ visitors:
   #     email: jpaek@usc.edu
 
 alumni:
-- name: <a href="https://www.oscarpang.com/">Weiwu Pang</a>
-  role: Software Engineer at Google Cloud NetInfra
-
-- name: <a href="https://www.jianfengwang.com">Jianfeng Wang</a>
-  role: Software Engineer at Oracle
-
-- name: <a href="https://www.linkedin.com/in/yu-chuan-yen-789b2b76/">Yu-Chuan (Jane) Yen</a>
-  role: Software Engineer at Google Cloud NetInfra
-
+#- name: <a href="https://www.oscarpang.com/">Weiwu Pang</a>
+#  role: Software Engineer at Google Cloud NetInfra
+#
+#- name: <a href="https://www.jianfengwang.com">Jianfeng Wang</a>
+#  role: Software Engineer at Oracle
+#
   

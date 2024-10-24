@@ -29,23 +29,9 @@ permalink: /team/
   <!-- Member photo floats on left -->
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-{% if member.social.website %}<a target="blank" href="{{member.social.website}}"><i class="fas fa-globe fa-lg"></i></a>{% endif %} {% if member.social.google-scholar %}<a target="blank" href="{{member.social.googlescholar}}"><i class="fab fa-google-scholar fa-lg"></i></a>{% endif %} {% if member.social.linkedin %}<a target="blank" href="{{member.social.linkedin}}"><i class="fab fa-linkedin fa-lg"></i></a>{% endif %}
-<!-- Github -->
-{% if member.social.github %}
-<a target="blank" href="{{member.social.github}}"><i class="fab fa-github fa-lg"></i></a>
-{% endif %}
-<!-- Twitter -->
-{% if member.social.twitter %}
-<a target="blank" href="{{member.social.twitter}}"><i class="fab fa-x-twitter fa-lg"></i></a>
-{% endif %}
-<!-- Orcid -->
-{% if member.social.orcid %}
-<a target="blank" href="{{member.social.orcid}}"><i class="fab fa-orcid fa-lg"></i></a>
-{% endif %}
-<!-- Research Gate -->
-{% if member.social.research-gate %}
-<a target="blank" href="{{member.social.researchgate}}"><i class="ai ai-researchgate-sq"></i></a>
-{% endif %}  <i>{{ member.info }}</i>
+{% if member.social.website %}<a target="blank" href="{{member.social.website}}"><i class="fas fa-globe fa-lg"></i></a>{% endif %} {% if member.social.google-scholar %}<a target="blank" href="{{member.social.googlescholar}}"><i class="fab fa-google-scholar fa-lg"></i></a>{% endif %} {% if member.social.linkedin %}<a target="blank" href="{{member.social.linkedin}}"><i class="fab fa-linkedin fa-lg"></i></a>{% endif %} {% if member.social.github %}<a target="blank" href="{{member.social.github}}"><i class="fab fa-github fa-lg"></i></a>{% endif %} {% if member.social.twitter %}<a target="blank" href="{{member.social.twitter}}"><i class="fab fa-x-twitter fa-lg"></i></a>{% endif %} {% if member.social.orcid %}<a target="blank" href="{{member.social.orcid}}"><i class="fab fa-orcid fa-lg"></i></a>{% endif %} {% if member.social.research-gate %}<a target="blank" href="{{member.social.researchgate}}"><i class="ai ai-researchgate-square ai-lg"></i></a>{% endif %}  
+  
+  <i>{{ member.info }}</i>
   <!-- Maybe add education/notes here... -->
 </div>
 

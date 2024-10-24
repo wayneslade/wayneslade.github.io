@@ -1,7 +1,7 @@
 facultystaff:
   - name: Wayne Slade
     photo: Slade.JPG
-    info: Associate Research Professor
+    info: Associate Research Professor<br>Principal Investigator
     education:
       - PhD Oceanography, University of Maine with <a href=https://misclab.umeoce.maine.edu/">Emmanuel Boss</a>
     social:
@@ -11,38 +11,35 @@ facultystaff:
       orcid: https://orcid.org/0000-0003-1851-968X
       
   - name: This could be you!
-    photo: now_hiring.jpg
-    info: Postdoctoral Researcher<br>See here for more info
+    photo: user-large.svg
+    info: Postdoctoral Researcher<br>See here for more info...[coming soon]
 
 currentstudents:
+  - name: This could be you!
+    photo: user-graduate.svg
+    info: MS and PhD student opportunities<br>See here for more info...[coming soon]
+
 #  - name: Huanchen Sun
 #    photo: Default/bio-photo.jpg
-#    info: PhD Student
+#    info: PhD Student<br>Advisor: Dr. Jane Doe
 #    start: Mar 2024
-#    advisor:
-#      - Harsha V. Madhyastha
 #    social:
 #      linkedin: https://www.linkedin.com/in/huanchen-sun-3378a3229/
   
 visitors:
 
-  # Past Visitors
-  # - name: <a href="https://usc-nsl.github.io/people/jeongyeup-paek/">Jeongyeup Paek</a>
-  #   lastname: Paek
-  #   photo: Jeongyeup/jpaek-1.jpg
-  #   info: Visiting Scholar @ USC-NSL
-  #   start: Aug 2022
-  #   email: jpaek@usc.edu
-  #   from:
-  #     - Associate Professor @ Chung-Ang University
-  #   education:
-  #     - M.S. and Ph.D. from the University of Southern California, Los Angeles
-  #     - B.S. from Seoul National University, Seoul, Republic of Korea
-  #   social:
-  #     google-scholar: http://scholar.google.com/citations?user=oTAOFAYAAAAJ
-  #     linkedin: http://www.linkedin.com/in/jeongyeuppaek
-  #     website: https://usc-nsl.github.io/people/jeongyeup-paek/
-  #     email: jpaek@usc.edu
+# - name: Jeongyeup Paek
+#   photo: Jeongyeup/jpaek-1.jpg
+#   info: Visiting Scholar @ USC-NSL<br>Associate Professor @ Chung-Ang University
+#   start: Aug 2022
+#   education:
+#     - M.S. and Ph.D. from the University of Southern California, Los Angeles
+#     - B.S. from Seoul National University, Seoul, Republic of Korea
+#   social:
+#     google-scholar: http://scholar.google.com/citations?user=oTAOFAYAAAAJ
+#     linkedin: http://www.linkedin.com/in/jeongyeuppaek
+#     website: https://usc-nsl.github.io/people/jeongyeup-paek/
+#     email: jpaek@usc.edu
 
 alumni:
 #- name: <a href="https://www.oscarpang.com/">Weiwu Pang</a>

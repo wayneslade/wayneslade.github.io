@@ -1,15 +1,34 @@
 ---
-title: "Allan Lab - Research"
+title: "Slade Lab @ FAU HBOI - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Slade Lab at Florida Atlantic University Harbor Branch: Research"
 sitemap: false
 permalink: /research/
 ---
 
-# Research
+## Research
+Updating soon -- stay put. (July 19 2025)
 
-Updating soon -- stay put. (Aug 11 2023)
+#### Hyperspectral and Polarized Angular Scattering
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
+
+#### Turbidity Measurement for Aquatic Environmental Applications
+
+
+#### Bioluminescence Emission Spectral Measurements
+
+
+
+## Capabilities
+Updating soon -- stay put. (July 19 2025)
+
+#### Hyperspectral and Polarized Angular Scattering
+
+
+#### Turbidity Measurement for Aquatic Environmental Applications
+
+
+#### Bioluminescence Emission Spectra
+
 
 
